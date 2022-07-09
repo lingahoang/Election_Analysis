@@ -1,5 +1,1 @@
-Counties in the Election
----------------------
-Arapahoe
-Denver
-Jefferson
+Counties in the ElectionArapahoe, Denver, Jefferson
